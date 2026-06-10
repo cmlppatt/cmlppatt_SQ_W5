@@ -8,7 +8,7 @@ const SPRITE = {
   frameWidth:  23.375,  // width of one frame  (300px / 4 frames)
   frameHeight: 30.25, // height of one frame (600px / 4 rows)
   numFrames:   8,   // frames per row
-  animSpeed:   10,  // draw() frames per sprite frame (higher = slower)
+  animSpeed:   6,  // draw() frames per sprite frame (higher = slower)
   scale:       2, // draw at half original size
 
   // Row index for each direction
